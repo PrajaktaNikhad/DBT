@@ -1,0 +1,11 @@
+1) Which field of the Customers table is the primary key?
+Ans: Cnum is the primary key of Customers table.
+
+2) What is the 4th column of the Customers table?
+Ans: The fourth column of customers table is Rating column.
+
+3) What is another word for row? For column?
+Ans: Where in MySQL rows referred as records and column referred as field.
+
+4) Why isn’t it possible to see the first five rows of a table?
+Ans: It is possible to see first five rows of a table.

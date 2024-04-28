@@ -1,0 +1,5 @@
+1) Does ANSI recognize the data type DATE?
+Ans: The ANSI standard does not have a specific data type called DATE. 
+
+2) Which subdivision of SQL is used to insert values in tables?
+Ans: INSERT INTO command of DML (Data Manipulation Language) is used to insert values into the table.
